@@ -1,2 +1,13 @@
-# remote-work
-This is a React Native App for Curating and Listing Remote Jobs via React Native &amp; Expo
+# Expo Router Example
+
+Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+
+## 🚀 How to use
+
+```sh
+npx create-expo-app -e with-router
+```
+
+## 📝 Notes
+
+- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
